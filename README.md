@@ -1,1 +1,3 @@
-# .github
+# Team Terminus
+
+<insert about here>
